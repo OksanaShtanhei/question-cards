@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+body{
+height: 100vh;
+
+background: 
+  repeating-radial-gradient(
+    circle at 0 0, 
+    rgb(186, 247, 199),
+    rgb(194, 193, 193) 50px
+  );
+
+  text-transform: capitalize;
+
+}

@@ -1,0 +1,35 @@
+.q-block{
+    background-color: white;
+    width: 43vw;
+    padding: 4vh 0;
+    margin: 5vh 0;
+    border-radius: 10px;
+}
+.questionsBlock{
+    margin: 0 30%;
+}
+.q-title{
+    border-bottom: 2px solid grey;
+    padding-bottom: 20px;
+    letter-spacing: 1.5px;
+}
+.q-text{
+    text-transform: none;
+    display: none;
+}
+.show-text {
+    display: block;   
+}
+.button{
+    background: none;
+    border: none;
+    font-size: x-large;
+}
+.button:hover, .button:active, .button:visited, .button:focus{
+    border: none;
+    outline: none;
+}
+.rotate{
+    transform: rotate(180deg);
+    transition-duration: 0.3s;
+}
